@@ -30,6 +30,14 @@ On the frontend, the client listens for messages from the server.
 - **Efficient:** Reduces network overhead compared to HTTP polling.
 - **Bidirectional:** Both server and client can send messages at any time.
 
+
+  Here are the snapshots of the working:
+  Admin's Side:
+<img width="823" height="376" alt="image" src="https://github.com/user-attachments/assets/37511348-1b4a-4ddf-85ce-bbbd72b253c0" />
+  Client's Side:
+ <img width="1035" height="702" alt="image" src="https://github.com/user-attachments/assets/ef356066-07be-4997-938a-81ebeea3e5ab" />
+
+
 ## Summary
 This simulation shows how Spring Boot and WebSockets work together to deliver real-time notifications.  
 It’s ideal for learning or demonstrating instant communication in web applications.
